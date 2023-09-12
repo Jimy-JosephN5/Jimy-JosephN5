@@ -1,5 +1,6 @@
 ![Development ](https://media.licdn.com/dms/image/D5616AQEMU1HMG6Xdnw/profile-displaybackgroundimage-shrink_350_1400/0/1686685619231?e=1699488000&v=beta&t=axVz6kQRY2MZubuhyNgLTupipoR4THMXMXcblCCWKOk)
-### Hi there 👋, I'm Jimy Joseph
+### Hi there 👋, 
+I'm Jimy Joseph
 i'm a Software Developer from Bangladesh. I really enjoy working with javaScript and frameworks like React. you can checkout my linkedIn at https://www.linkedin.com/in/jimy-joseph432/.
 
 
