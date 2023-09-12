@@ -3,11 +3,12 @@
 i'm a Software Developer from Bangladesh. I really enjoy working with javaScript and frameworks like React. you can checkout my linkedIn at https://www.linkedin.com/in/jimy-joseph432/.
 
 
-<img align="left" width="50%" src='https://github-readme-stats.vercel.app/api?username=Jimy-JosephN5&theme=dark&show_icons=true' />
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+<img align="left" width="46%" src='https://github-readme-stats.vercel.app/api?username=Jimy-JosephN5&theme=dark&show_icons=true' />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
 
 
 ## Skills and Experiences
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
