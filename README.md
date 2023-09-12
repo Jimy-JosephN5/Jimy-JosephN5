@@ -3,7 +3,7 @@
 i'm a Software Developer from Bangladesh. I really enjoy working with javaScript and frameworks like React. you can checkout my linkedIn at https://www.linkedin.com/in/jimy-joseph432/.
 
 
-<img align="left" width="45%" src='https://github-readme-stats.vercel.app/api?username=Jimy-JosephN5&theme=dark&show_icons=true' />
+<img align="left" width="50%" src='https://github-readme-stats.vercel.app/api?username=Jimy-JosephN5&theme=dark&show_icons=true' />
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
 
 
